@@ -1,0 +1,13 @@
+__pycache__
+.idea
+files/*.txt
+vaildfiles/*.txt
+models/Chinese-Text-Classification-Pytorch-master
+source/不可源.txt
+chromedriver.exe
+分类
+爬虫
+*.zip
+*.rar
+*.docx
+*.xlsx
